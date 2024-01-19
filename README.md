@@ -1,2 +1,2 @@
-# alpinejs
+# AlpineJs
 Minimal framework
